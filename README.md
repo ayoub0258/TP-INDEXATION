@@ -8,6 +8,6 @@ Bienvenue dans ce dépôt ! Ce projet contient trois dossiers correspondant aux 
 - **TP2** : **Indexer**
 - **TP3** : **Search Engine**
 
-Pour chaque TP, tu trouveras un fichier `README.md` dans le dossier correspondant, contenant toutes les instructions et informations nécessaires.
+Pour chaque TP, vous trouverez un fichier `README.md` dans le dossier correspondant, contenant toutes les instructions et informations nécessaires.
 
 Bonne chance !
