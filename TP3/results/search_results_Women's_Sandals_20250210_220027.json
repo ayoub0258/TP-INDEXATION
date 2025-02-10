@@ -1,0 +1,140 @@
+{
+    "metadata": {
+        "query": "Women's Sandals",
+        "timestamp": "2025-02-10T22:00:27.676518",
+        "total_documents": 156,
+        "filtered_documents": 10
+    },
+    "results": [
+        {
+            "title": "Women's High Heel Sandals",
+            "url": "https://web-scraping.dev/product/20?variant=beige-7",
+            "description": "Step out in style with our Women's High Heel Sandals. These sandals feature a strappy design that adds a touch of elegance to any outfit. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. Choose from black, red, nude, or silver to complement your wardrobe.",
+            "scores": {
+                "bm25_score": 1.7381608701847988,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.528,
+                "final_score": 2.666160870184799
+            },
+            "score": 2.666
+        },
+        {
+            "title": "Women's High Heel Sandals",
+            "url": "https://web-scraping.dev/product/20?variant=beige-8",
+            "description": "Step out in style with our Women's High Heel Sandals. These sandals feature a strappy design that adds a touch of elegance to any outfit. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. Choose from black, red, nude, or silver to complement your wardrobe.",
+            "scores": {
+                "bm25_score": 1.7381608701847988,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.528,
+                "final_score": 2.666160870184799
+            },
+            "score": 2.666
+        },
+        {
+            "title": "Women's High Heel Sandals",
+            "url": "https://web-scraping.dev/product/8",
+            "description": "Step out in style with our Women's High Heel Sandals. These sandals feature a strappy design that adds a touch of elegance to any outfit. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. Choose from black, red, nude, or silver to complement your wardrobe.",
+            "scores": {
+                "bm25_score": 1.7381608701847988,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.528,
+                "final_score": 2.666160870184799
+            },
+            "score": 2.666
+        },
+        {
+            "title": "Women's High Heel Sandals",
+            "url": "https://web-scraping.dev/product/20?variant=beige-6",
+            "description": "Step out in style with our Women's High Heel Sandals. These sandals feature a strappy design that adds a touch of elegance to any outfit. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. Choose from black, red, nude, or silver to complement your wardrobe.",
+            "scores": {
+                "bm25_score": 1.7381608701847988,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.528,
+                "final_score": 2.666160870184799
+            },
+            "score": 2.666
+        },
+        {
+            "title": "Women's High Heel Sandals",
+            "url": "https://web-scraping.dev/product/8?variant=beige-6",
+            "description": "Step out in style with our Women's High Heel Sandals. These sandals feature a strappy design that adds a touch of elegance to any outfit. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. Choose from black, red, nude, or silver to complement your wardrobe.",
+            "scores": {
+                "bm25_score": 1.7381608701847988,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.528,
+                "final_score": 2.666160870184799
+            },
+            "score": 2.666
+        },
+        {
+            "title": "Women's High Heel Sandals",
+            "url": "https://web-scraping.dev/product/8?variant=beige-8",
+            "description": "Step out in style with our Women's High Heel Sandals. These sandals feature a strappy design that adds a touch of elegance to any outfit. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. Choose from black, red, nude, or silver to complement your wardrobe.",
+            "scores": {
+                "bm25_score": 1.7381608701847988,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.528,
+                "final_score": 2.666160870184799
+            },
+            "score": 2.666
+        },
+        {
+            "title": "Women's High Heel Sandals",
+            "url": "https://web-scraping.dev/product/8?variant=blue-9",
+            "description": "Step out in style with our Women's High Heel Sandals. These sandals feature a strappy design that adds a touch of elegance to any outfit. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. Choose from black, red, nude, or silver to complement your wardrobe.",
+            "scores": {
+                "bm25_score": 1.7381608701847988,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.528,
+                "final_score": 2.666160870184799
+            },
+            "score": 2.666
+        },
+        {
+            "title": "Women's High Heel Sandals",
+            "url": "https://web-scraping.dev/product/8?variant=beige-7",
+            "description": "Step out in style with our Women's High Heel Sandals. These sandals feature a strappy design that adds a touch of elegance to any outfit. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. Choose from black, red, nude, or silver to complement your wardrobe.",
+            "scores": {
+                "bm25_score": 1.7381608701847988,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.528,
+                "final_score": 2.666160870184799
+            },
+            "score": 2.666
+        },
+        {
+            "title": "Women's High Heel Sandals",
+            "url": "https://web-scraping.dev/product/20",
+            "description": "Step out in style with our Women's High Heel Sandals. These sandals feature a strappy design that adds a touch of elegance to any outfit. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. Choose from black, red, nude, or silver to complement your wardrobe.",
+            "scores": {
+                "bm25_score": 1.7381608701847988,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.528,
+                "final_score": 2.666160870184799
+            },
+            "score": 2.666
+        },
+        {
+            "title": "Women's High Heel Sandals",
+            "url": "https://web-scraping.dev/product/20?variant=blue-9",
+            "description": "Step out in style with our Women's High Heel Sandals. These sandals feature a strappy design that adds a touch of elegance to any outfit. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. Choose from black, red, nude, or silver to complement your wardrobe.",
+            "scores": {
+                "bm25_score": 1.7381608701847988,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.528,
+                "final_score": 2.666160870184799
+            },
+            "score": 2.666
+        }
+    ]
+}

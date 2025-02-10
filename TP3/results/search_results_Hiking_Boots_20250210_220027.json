@@ -1,0 +1,140 @@
+{
+    "metadata": {
+        "query": "Hiking Boots",
+        "timestamp": "2025-02-10T22:00:27.675634",
+        "total_documents": 156,
+        "filtered_documents": 10
+    },
+    "results": [
+        {
+            "title": "Hiking Boots for Outdoor Adventures",
+            "url": "https://web-scraping.dev/product/19?variant=9",
+            "description": "Gear up for your next outdoor adventure with these durable and comfortable hiking boots. These boots are designed to handle all types of terrain, from rocky trails to muddy paths. They feature a waterproof upper, a rugged outsole for excellent traction, and a cushioned insole for maximum comfort. The mixed-color design adds a stylish touch to these practical boots. Get ready to conquer the great outdoors with our Hiking Boots for Outdoor Adventures.",
+            "scores": {
+                "bm25_score": 3.5534663924528562,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.564,
+                "final_score": 4.517466392452856
+            },
+            "score": 4.517
+        },
+        {
+            "title": "Hiking Boots for Outdoor Adventures",
+            "url": "https://web-scraping.dev/product/19?variant=8",
+            "description": "Gear up for your next outdoor adventure with these durable and comfortable hiking boots. These boots are designed to handle all types of terrain, from rocky trails to muddy paths. They feature a waterproof upper, a rugged outsole for excellent traction, and a cushioned insole for maximum comfort. The mixed-color design adds a stylish touch to these practical boots. Get ready to conquer the great outdoors with our Hiking Boots for Outdoor Adventures.",
+            "scores": {
+                "bm25_score": 3.5534663924528562,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.564,
+                "final_score": 4.517466392452856
+            },
+            "score": 4.517
+        },
+        {
+            "title": "Hiking Boots for Outdoor Adventures",
+            "url": "https://web-scraping.dev/product/7?variant=7",
+            "description": "Gear up for your next outdoor adventure with these durable and comfortable hiking boots. These boots are designed to handle all types of terrain, from rocky trails to muddy paths. They feature a waterproof upper, a rugged outsole for excellent traction, and a cushioned insole for maximum comfort. The mixed-color design adds a stylish touch to these practical boots. Get ready to conquer the great outdoors with our Hiking Boots for Outdoor Adventures.",
+            "scores": {
+                "bm25_score": 3.5534663924528562,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.564,
+                "final_score": 4.517466392452856
+            },
+            "score": 4.517
+        },
+        {
+            "title": "Hiking Boots for Outdoor Adventures",
+            "url": "https://web-scraping.dev/product/19",
+            "description": "Gear up for your next outdoor adventure with these durable and comfortable hiking boots. These boots are designed to handle all types of terrain, from rocky trails to muddy paths. They feature a waterproof upper, a rugged outsole for excellent traction, and a cushioned insole for maximum comfort. The mixed-color design adds a stylish touch to these practical boots. Get ready to conquer the great outdoors with our Hiking Boots for Outdoor Adventures.",
+            "scores": {
+                "bm25_score": 3.5534663924528562,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.564,
+                "final_score": 4.517466392452856
+            },
+            "score": 4.517
+        },
+        {
+            "title": "Hiking Boots for Outdoor Adventures",
+            "url": "https://web-scraping.dev/product/7?variant=9",
+            "description": "Gear up for your next outdoor adventure with these durable and comfortable hiking boots. These boots are designed to handle all types of terrain, from rocky trails to muddy paths. They feature a waterproof upper, a rugged outsole for excellent traction, and a cushioned insole for maximum comfort. The mixed-color design adds a stylish touch to these practical boots. Get ready to conquer the great outdoors with our Hiking Boots for Outdoor Adventures.",
+            "scores": {
+                "bm25_score": 3.5534663924528562,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.564,
+                "final_score": 4.517466392452856
+            },
+            "score": 4.517
+        },
+        {
+            "title": "Hiking Boots for Outdoor Adventures",
+            "url": "https://web-scraping.dev/product/7?variant=8",
+            "description": "Gear up for your next outdoor adventure with these durable and comfortable hiking boots. These boots are designed to handle all types of terrain, from rocky trails to muddy paths. They feature a waterproof upper, a rugged outsole for excellent traction, and a cushioned insole for maximum comfort. The mixed-color design adds a stylish touch to these practical boots. Get ready to conquer the great outdoors with our Hiking Boots for Outdoor Adventures.",
+            "scores": {
+                "bm25_score": 3.5534663924528562,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.564,
+                "final_score": 4.517466392452856
+            },
+            "score": 4.517
+        },
+        {
+            "title": "Hiking Boots for Outdoor Adventures",
+            "url": "https://web-scraping.dev/product/7?variant=6",
+            "description": "Gear up for your next outdoor adventure with these durable and comfortable hiking boots. These boots are designed to handle all types of terrain, from rocky trails to muddy paths. They feature a waterproof upper, a rugged outsole for excellent traction, and a cushioned insole for maximum comfort. The mixed-color design adds a stylish touch to these practical boots. Get ready to conquer the great outdoors with our Hiking Boots for Outdoor Adventures.",
+            "scores": {
+                "bm25_score": 3.5534663924528562,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.564,
+                "final_score": 4.517466392452856
+            },
+            "score": 4.517
+        },
+        {
+            "title": "Hiking Boots for Outdoor Adventures",
+            "url": "https://web-scraping.dev/product/19?variant=6",
+            "description": "Gear up for your next outdoor adventure with these durable and comfortable hiking boots. These boots are designed to handle all types of terrain, from rocky trails to muddy paths. They feature a waterproof upper, a rugged outsole for excellent traction, and a cushioned insole for maximum comfort. The mixed-color design adds a stylish touch to these practical boots. Get ready to conquer the great outdoors with our Hiking Boots for Outdoor Adventures.",
+            "scores": {
+                "bm25_score": 3.5534663924528562,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.564,
+                "final_score": 4.517466392452856
+            },
+            "score": 4.517
+        },
+        {
+            "title": "Hiking Boots for Outdoor Adventures",
+            "url": "https://web-scraping.dev/product/19?variant=7",
+            "description": "Gear up for your next outdoor adventure with these durable and comfortable hiking boots. These boots are designed to handle all types of terrain, from rocky trails to muddy paths. They feature a waterproof upper, a rugged outsole for excellent traction, and a cushioned insole for maximum comfort. The mixed-color design adds a stylish touch to these practical boots. Get ready to conquer the great outdoors with our Hiking Boots for Outdoor Adventures.",
+            "scores": {
+                "bm25_score": 3.5534663924528562,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.564,
+                "final_score": 4.517466392452856
+            },
+            "score": 4.517
+        },
+        {
+            "title": "Hiking Boots for Outdoor Adventures",
+            "url": "https://web-scraping.dev/product/7",
+            "description": "Gear up for your next outdoor adventure with these durable and comfortable hiking boots. These boots are designed to handle all types of terrain, from rocky trails to muddy paths. They feature a waterproof upper, a rugged outsole for excellent traction, and a cushioned insole for maximum comfort. The mixed-color design adds a stylish touch to these practical boots. Get ready to conquer the great outdoors with our Hiking Boots for Outdoor Adventures.",
+            "scores": {
+                "bm25_score": 3.5534663924528562,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.564,
+                "final_score": 4.517466392452856
+            },
+            "score": 4.517
+        }
+    ]
+}

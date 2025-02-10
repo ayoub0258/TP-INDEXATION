@@ -1,0 +1,699 @@
+{
+    "metadata": {
+        "query": "Red Energy Potion",
+        "timestamp": "2025-02-10T22:00:27.674658",
+        "total_documents": 156,
+        "filtered_documents": 53
+    },
+    "results": [
+        {
+            "title": "Red Energy Potion",
+            "url": "https://web-scraping.dev/product/16?variant=six-pack",
+            "description": "Elevate your game with our 'Red Potion', an extraordinary energy drink that's as enticing as it is effective. This fiery red potion delivers an explosive berry flavor and an energy kick that keeps you at the top of your game. Are you ready to level up?",
+            "scores": {
+                "bm25_score": 2.2221879897180385,
+                "exact_match_score": 2.0,
+                "title_match_score": 0.6000000000000001,
+                "review_score": 0.5475,
+                "final_score": 5.369687989718039
+            },
+            "score": 5.37
+        },
+        {
+            "title": "Red Energy Potion",
+            "url": "https://web-scraping.dev/product/4?variant=six-pack",
+            "description": "Elevate your game with our 'Red Potion', an extraordinary energy drink that's as enticing as it is effective. This fiery red potion delivers an explosive berry flavor and an energy kick that keeps you at the top of your game. Are you ready to level up?",
+            "scores": {
+                "bm25_score": 2.2221879897180385,
+                "exact_match_score": 2.0,
+                "title_match_score": 0.6000000000000001,
+                "review_score": 0.5475,
+                "final_score": 5.369687989718039
+            },
+            "score": 5.37
+        },
+        {
+            "title": "Red Energy Potion",
+            "url": "https://web-scraping.dev/product/28?variant=one",
+            "description": "Elevate your game with our 'Red Potion', an extraordinary energy drink that's as enticing as it is effective. This fiery red potion delivers an explosive berry flavor and an energy kick that keeps you at the top of your game. Are you ready to level up?",
+            "scores": {
+                "bm25_score": 2.2221879897180385,
+                "exact_match_score": 2.0,
+                "title_match_score": 0.6000000000000001,
+                "review_score": 0.5475,
+                "final_score": 5.369687989718039
+            },
+            "score": 5.37
+        },
+        {
+            "title": "Red Energy Potion",
+            "url": "https://web-scraping.dev/product/16?variant=one",
+            "description": "Elevate your game with our 'Red Potion', an extraordinary energy drink that's as enticing as it is effective. This fiery red potion delivers an explosive berry flavor and an energy kick that keeps you at the top of your game. Are you ready to level up?",
+            "scores": {
+                "bm25_score": 2.2221879897180385,
+                "exact_match_score": 2.0,
+                "title_match_score": 0.6000000000000001,
+                "review_score": 0.5475,
+                "final_score": 5.369687989718039
+            },
+            "score": 5.37
+        },
+        {
+            "title": "Red Energy Potion",
+            "url": "https://web-scraping.dev/product/4",
+            "description": "Elevate your game with our 'Red Potion', an extraordinary energy drink that's as enticing as it is effective. This fiery red potion delivers an explosive berry flavor and an energy kick that keeps you at the top of your game. Are you ready to level up?",
+            "scores": {
+                "bm25_score": 2.2221879897180385,
+                "exact_match_score": 2.0,
+                "title_match_score": 0.6000000000000001,
+                "review_score": 0.5475,
+                "final_score": 5.369687989718039
+            },
+            "score": 5.37
+        },
+        {
+            "title": "Red Energy Potion",
+            "url": "https://web-scraping.dev/product/28",
+            "description": "Elevate your game with our 'Red Potion', an extraordinary energy drink that's as enticing as it is effective. This fiery red potion delivers an explosive berry flavor and an energy kick that keeps you at the top of your game. Are you ready to level up?",
+            "scores": {
+                "bm25_score": 2.2221879897180385,
+                "exact_match_score": 2.0,
+                "title_match_score": 0.6000000000000001,
+                "review_score": 0.5475,
+                "final_score": 5.369687989718039
+            },
+            "score": 5.37
+        },
+        {
+            "title": "Red Energy Potion",
+            "url": "https://web-scraping.dev/product/28?variant=six-pack",
+            "description": "Elevate your game with our 'Red Potion', an extraordinary energy drink that's as enticing as it is effective. This fiery red potion delivers an explosive berry flavor and an energy kick that keeps you at the top of your game. Are you ready to level up?",
+            "scores": {
+                "bm25_score": 2.2221879897180385,
+                "exact_match_score": 2.0,
+                "title_match_score": 0.6000000000000001,
+                "review_score": 0.5475,
+                "final_score": 5.369687989718039
+            },
+            "score": 5.37
+        },
+        {
+            "title": "Red Energy Potion",
+            "url": "https://web-scraping.dev/product/16",
+            "description": "Elevate your game with our 'Red Potion', an extraordinary energy drink that's as enticing as it is effective. This fiery red potion delivers an explosive berry flavor and an energy kick that keeps you at the top of your game. Are you ready to level up?",
+            "scores": {
+                "bm25_score": 2.2221879897180385,
+                "exact_match_score": 2.0,
+                "title_match_score": 0.6000000000000001,
+                "review_score": 0.5475,
+                "final_score": 5.369687989718039
+            },
+            "score": 5.37
+        },
+        {
+            "title": "Red Energy Potion",
+            "url": "https://web-scraping.dev/product/4?variant=one",
+            "description": "Elevate your game with our 'Red Potion', an extraordinary energy drink that's as enticing as it is effective. This fiery red potion delivers an explosive berry flavor and an energy kick that keeps you at the top of your game. Are you ready to level up?",
+            "scores": {
+                "bm25_score": 2.2221879897180385,
+                "exact_match_score": 2.0,
+                "title_match_score": 0.6000000000000001,
+                "review_score": 0.5475,
+                "final_score": 5.369687989718039
+            },
+            "score": 5.37
+        },
+        {
+            "title": "Dark Red Energy Potion",
+            "url": "https://web-scraping.dev/product/14?variant=one",
+            "description": "Unleash the power within with our 'Dark Red Potion', an energy drink as intense as the games you play. Its deep red color and bold cherry cola flavor are as inviting as they are invigorating. Bring out the best in your gaming performance, and unlock your full potential.",
+            "scores": {
+                "bm25_score": 2.1290386130651373,
+                "exact_match_score": 0,
+                "title_match_score": 0.6000000000000001,
+                "review_score": 0.5475,
+                "final_score": 3.2765386130651373
+            },
+            "score": 3.277
+        },
+        {
+            "title": "Dark Red Energy Potion",
+            "url": "https://web-scraping.dev/product/2",
+            "description": "Unleash the power within with our 'Dark Red Potion', an energy drink as intense as the games you play. Its deep red color and bold cherry cola flavor are as inviting as they are invigorating. Bring out the best in your gaming performance, and unlock your full potential.",
+            "scores": {
+                "bm25_score": 2.1290386130651373,
+                "exact_match_score": 0,
+                "title_match_score": 0.6000000000000001,
+                "review_score": 0.5475,
+                "final_score": 3.2765386130651373
+            },
+            "score": 3.277
+        },
+        {
+            "title": "Dark Red Energy Potion",
+            "url": "https://web-scraping.dev/product/2?variant=six-pack",
+            "description": "Unleash the power within with our 'Dark Red Potion', an energy drink as intense as the games you play. Its deep red color and bold cherry cola flavor are as inviting as they are invigorating. Bring out the best in your gaming performance, and unlock your full potential.",
+            "scores": {
+                "bm25_score": 2.1290386130651373,
+                "exact_match_score": 0,
+                "title_match_score": 0.6000000000000001,
+                "review_score": 0.5475,
+                "final_score": 3.2765386130651373
+            },
+            "score": 3.277
+        },
+        {
+            "title": "Dark Red Energy Potion",
+            "url": "https://web-scraping.dev/product/14?variant=six-pack",
+            "description": "Unleash the power within with our 'Dark Red Potion', an energy drink as intense as the games you play. Its deep red color and bold cherry cola flavor are as inviting as they are invigorating. Bring out the best in your gaming performance, and unlock your full potential.",
+            "scores": {
+                "bm25_score": 2.1290386130651373,
+                "exact_match_score": 0,
+                "title_match_score": 0.6000000000000001,
+                "review_score": 0.5475,
+                "final_score": 3.2765386130651373
+            },
+            "score": 3.277
+        },
+        {
+            "title": "Dark Red Energy Potion",
+            "url": "https://web-scraping.dev/product/26?variant=six-pack",
+            "description": "Unleash the power within with our 'Dark Red Potion', an energy drink as intense as the games you play. Its deep red color and bold cherry cola flavor are as inviting as they are invigorating. Bring out the best in your gaming performance, and unlock your full potential.",
+            "scores": {
+                "bm25_score": 2.1290386130651373,
+                "exact_match_score": 0,
+                "title_match_score": 0.6000000000000001,
+                "review_score": 0.5475,
+                "final_score": 3.2765386130651373
+            },
+            "score": 3.277
+        },
+        {
+            "title": "Dark Red Energy Potion",
+            "url": "https://web-scraping.dev/product/14",
+            "description": "Unleash the power within with our 'Dark Red Potion', an energy drink as intense as the games you play. Its deep red color and bold cherry cola flavor are as inviting as they are invigorating. Bring out the best in your gaming performance, and unlock your full potential.",
+            "scores": {
+                "bm25_score": 2.1290386130651373,
+                "exact_match_score": 0,
+                "title_match_score": 0.6000000000000001,
+                "review_score": 0.5475,
+                "final_score": 3.2765386130651373
+            },
+            "score": 3.277
+        },
+        {
+            "title": "Dark Red Energy Potion",
+            "url": "https://web-scraping.dev/product/26?variant=one",
+            "description": "Unleash the power within with our 'Dark Red Potion', an energy drink as intense as the games you play. Its deep red color and bold cherry cola flavor are as inviting as they are invigorating. Bring out the best in your gaming performance, and unlock your full potential.",
+            "scores": {
+                "bm25_score": 2.1290386130651373,
+                "exact_match_score": 0,
+                "title_match_score": 0.6000000000000001,
+                "review_score": 0.5475,
+                "final_score": 3.2765386130651373
+            },
+            "score": 3.277
+        },
+        {
+            "title": "Dark Red Energy Potion",
+            "url": "https://web-scraping.dev/product/2?variant=one",
+            "description": "Unleash the power within with our 'Dark Red Potion', an energy drink as intense as the games you play. Its deep red color and bold cherry cola flavor are as inviting as they are invigorating. Bring out the best in your gaming performance, and unlock your full potential.",
+            "scores": {
+                "bm25_score": 2.1290386130651373,
+                "exact_match_score": 0,
+                "title_match_score": 0.6000000000000001,
+                "review_score": 0.5475,
+                "final_score": 3.2765386130651373
+            },
+            "score": 3.277
+        },
+        {
+            "title": "Dark Red Energy Potion",
+            "url": "https://web-scraping.dev/product/26",
+            "description": "Unleash the power within with our 'Dark Red Potion', an energy drink as intense as the games you play. Its deep red color and bold cherry cola flavor are as inviting as they are invigorating. Bring out the best in your gaming performance, and unlock your full potential.",
+            "scores": {
+                "bm25_score": 2.1290386130651373,
+                "exact_match_score": 0,
+                "title_match_score": 0.6000000000000001,
+                "review_score": 0.5475,
+                "final_score": 3.2765386130651373
+            },
+            "score": 3.277
+        },
+        {
+            "title": "Dragon Energy Potion",
+            "url": "https://web-scraping.dev/product/18?variant=one",
+            "description": "Fuel your gaming prowess with our 'Dragon Potion', an energy drink for those who dare to take on the greatest challenges. Packed with a fiery tropical flavor and a potent energy blend, this potion sets the stage for epic gaming sessions. Embrace the spirit of the dragon - play hard, play long.",
+            "scores": {
+                "bm25_score": 1.2316146715474396,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.5475,
+                "final_score": 2.1791146715474397
+            },
+            "score": 2.179
+        },
+        {
+            "title": "Dragon Energy Potion",
+            "url": "https://web-scraping.dev/product/18?variant=six-pack",
+            "description": "Fuel your gaming prowess with our 'Dragon Potion', an energy drink for those who dare to take on the greatest challenges. Packed with a fiery tropical flavor and a potent energy blend, this potion sets the stage for epic gaming sessions. Embrace the spirit of the dragon - play hard, play long.",
+            "scores": {
+                "bm25_score": 1.2316146715474396,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.5475,
+                "final_score": 2.1791146715474397
+            },
+            "score": 2.179
+        },
+        {
+            "title": "Dragon Energy Potion",
+            "url": "https://web-scraping.dev/product/18",
+            "description": "Fuel your gaming prowess with our 'Dragon Potion', an energy drink for those who dare to take on the greatest challenges. Packed with a fiery tropical flavor and a potent energy blend, this potion sets the stage for epic gaming sessions. Embrace the spirit of the dragon - play hard, play long.",
+            "scores": {
+                "bm25_score": 1.2316146715474396,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.5475,
+                "final_score": 2.1791146715474397
+            },
+            "score": 2.179
+        },
+        {
+            "title": "Blue Energy Potion",
+            "url": "https://web-scraping.dev/product/5?variant=six-pack",
+            "description": "Ignite your gaming sessions with our 'Blue Energy Potion', a premium energy drink crafted for dedicated gamers. Inspired by the classic video game potions, this energy drink provides a much-needed boost to keep you focused and energized. It's more than just an energy drink - it's an ode to the gaming culture, packaged in an aesthetically pleasing potion-like bottle that'll make you feel like you're in your favorite game world. Drink up and game on!",
+            "scores": {
+                "bm25_score": 1.2149827620303413,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.564,
+                "final_score": 2.1789827620303415
+            },
+            "score": 2.179
+        },
+        {
+            "title": "Blue Energy Potion",
+            "url": "https://web-scraping.dev/product/17",
+            "description": "Ignite your gaming sessions with our 'Blue Energy Potion', a premium energy drink crafted for dedicated gamers. Inspired by the classic video game potions, this energy drink provides a much-needed boost to keep you focused and energized. It's more than just an energy drink - it's an ode to the gaming culture, packaged in an aesthetically pleasing potion-like bottle that'll make you feel like you're in your favorite game world. Drink up and game on!",
+            "scores": {
+                "bm25_score": 1.2149827620303413,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.564,
+                "final_score": 2.1789827620303415
+            },
+            "score": 2.179
+        },
+        {
+            "title": "Dragon Energy Potion",
+            "url": "https://web-scraping.dev/product/6?variant=one",
+            "description": "Fuel your gaming prowess with our 'Dragon Potion', an energy drink for those who dare to take on the greatest challenges. Packed with a fiery tropical flavor and a potent energy blend, this potion sets the stage for epic gaming sessions. Embrace the spirit of the dragon - play hard, play long.",
+            "scores": {
+                "bm25_score": 1.2316146715474396,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.5475,
+                "final_score": 2.1791146715474397
+            },
+            "score": 2.179
+        },
+        {
+            "title": "Blue Energy Potion",
+            "url": "https://web-scraping.dev/product/17?variant=six-pack",
+            "description": "Ignite your gaming sessions with our 'Blue Energy Potion', a premium energy drink crafted for dedicated gamers. Inspired by the classic video game potions, this energy drink provides a much-needed boost to keep you focused and energized. It's more than just an energy drink - it's an ode to the gaming culture, packaged in an aesthetically pleasing potion-like bottle that'll make you feel like you're in your favorite game world. Drink up and game on!",
+            "scores": {
+                "bm25_score": 1.2149827620303413,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.564,
+                "final_score": 2.1789827620303415
+            },
+            "score": 2.179
+        },
+        {
+            "title": "Dragon Energy Potion",
+            "url": "https://web-scraping.dev/product/6",
+            "description": "Fuel your gaming prowess with our 'Dragon Potion', an energy drink for those who dare to take on the greatest challenges. Packed with a fiery tropical flavor and a potent energy blend, this potion sets the stage for epic gaming sessions. Embrace the spirit of the dragon - play hard, play long.",
+            "scores": {
+                "bm25_score": 1.2316146715474396,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.5475,
+                "final_score": 2.1791146715474397
+            },
+            "score": 2.179
+        },
+        {
+            "title": "Blue Energy Potion",
+            "url": "https://web-scraping.dev/product/5?variant=one",
+            "description": "Ignite your gaming sessions with our 'Blue Energy Potion', a premium energy drink crafted for dedicated gamers. Inspired by the classic video game potions, this energy drink provides a much-needed boost to keep you focused and energized. It's more than just an energy drink - it's an ode to the gaming culture, packaged in an aesthetically pleasing potion-like bottle that'll make you feel like you're in your favorite game world. Drink up and game on!",
+            "scores": {
+                "bm25_score": 1.2149827620303413,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.564,
+                "final_score": 2.1789827620303415
+            },
+            "score": 2.179
+        },
+        {
+            "title": "Blue Energy Potion",
+            "url": "https://web-scraping.dev/product/17?variant=one",
+            "description": "Ignite your gaming sessions with our 'Blue Energy Potion', a premium energy drink crafted for dedicated gamers. Inspired by the classic video game potions, this energy drink provides a much-needed boost to keep you focused and energized. It's more than just an energy drink - it's an ode to the gaming culture, packaged in an aesthetically pleasing potion-like bottle that'll make you feel like you're in your favorite game world. Drink up and game on!",
+            "scores": {
+                "bm25_score": 1.2149827620303413,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.564,
+                "final_score": 2.1789827620303415
+            },
+            "score": 2.179
+        },
+        {
+            "title": "Dragon Energy Potion",
+            "url": "https://web-scraping.dev/product/6?variant=six-pack",
+            "description": "Fuel your gaming prowess with our 'Dragon Potion', an energy drink for those who dare to take on the greatest challenges. Packed with a fiery tropical flavor and a potent energy blend, this potion sets the stage for epic gaming sessions. Embrace the spirit of the dragon - play hard, play long.",
+            "scores": {
+                "bm25_score": 1.2316146715474396,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.5475,
+                "final_score": 2.1791146715474397
+            },
+            "score": 2.179
+        },
+        {
+            "title": "Blue Energy Potion",
+            "url": "https://web-scraping.dev/product/5",
+            "description": "Ignite your gaming sessions with our 'Blue Energy Potion', a premium energy drink crafted for dedicated gamers. Inspired by the classic video game potions, this energy drink provides a much-needed boost to keep you focused and energized. It's more than just an energy drink - it's an ode to the gaming culture, packaged in an aesthetically pleasing potion-like bottle that'll make you feel like you're in your favorite game world. Drink up and game on!",
+            "scores": {
+                "bm25_score": 1.2149827620303413,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.564,
+                "final_score": 2.1789827620303415
+            },
+            "score": 2.179
+        },
+        {
+            "title": "Teal Energy Potion",
+            "url": "https://web-scraping.dev/product/3?variant=one",
+            "description": "Experience a surge of vitality with our 'Teal Potion', an exceptional energy drink designed for the gaming community. With its intriguing teal color and a flavor that keeps you asking for more, this potion is your best companion during those long gaming nights. Every sip is an adventure - let the quest begin!",
+            "scores": {
+                "bm25_score": 1.1934454957258107,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.5475,
+                "final_score": 2.1409454957258105
+            },
+            "score": 2.141
+        },
+        {
+            "title": "Teal Energy Potion",
+            "url": "https://web-scraping.dev/product/15?variant=six-pack",
+            "description": "Experience a surge of vitality with our 'Teal Potion', an exceptional energy drink designed for the gaming community. With its intriguing teal color and a flavor that keeps you asking for more, this potion is your best companion during those long gaming nights. Every sip is an adventure - let the quest begin!",
+            "scores": {
+                "bm25_score": 1.1934454957258107,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.5475,
+                "final_score": 2.1409454957258105
+            },
+            "score": 2.141
+        },
+        {
+            "title": "Teal Energy Potion",
+            "url": "https://web-scraping.dev/product/15?variant=one",
+            "description": "Experience a surge of vitality with our 'Teal Potion', an exceptional energy drink designed for the gaming community. With its intriguing teal color and a flavor that keeps you asking for more, this potion is your best companion during those long gaming nights. Every sip is an adventure - let the quest begin!",
+            "scores": {
+                "bm25_score": 1.1934454957258107,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.5475,
+                "final_score": 2.1409454957258105
+            },
+            "score": 2.141
+        },
+        {
+            "title": "Teal Energy Potion",
+            "url": "https://web-scraping.dev/product/27?variant=one",
+            "description": "Experience a surge of vitality with our 'Teal Potion', an exceptional energy drink designed for the gaming community. With its intriguing teal color and a flavor that keeps you asking for more, this potion is your best companion during those long gaming nights. Every sip is an adventure - let the quest begin!",
+            "scores": {
+                "bm25_score": 1.1934454957258107,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.5475,
+                "final_score": 2.1409454957258105
+            },
+            "score": 2.141
+        },
+        {
+            "title": "Teal Energy Potion",
+            "url": "https://web-scraping.dev/product/3",
+            "description": "Experience a surge of vitality with our 'Teal Potion', an exceptional energy drink designed for the gaming community. With its intriguing teal color and a flavor that keeps you asking for more, this potion is your best companion during those long gaming nights. Every sip is an adventure - let the quest begin!",
+            "scores": {
+                "bm25_score": 1.1934454957258107,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.5475,
+                "final_score": 2.1409454957258105
+            },
+            "score": 2.141
+        },
+        {
+            "title": "Teal Energy Potion",
+            "url": "https://web-scraping.dev/product/27?variant=six-pack",
+            "description": "Experience a surge of vitality with our 'Teal Potion', an exceptional energy drink designed for the gaming community. With its intriguing teal color and a flavor that keeps you asking for more, this potion is your best companion during those long gaming nights. Every sip is an adventure - let the quest begin!",
+            "scores": {
+                "bm25_score": 1.1934454957258107,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.5475,
+                "final_score": 2.1409454957258105
+            },
+            "score": 2.141
+        },
+        {
+            "title": "Teal Energy Potion",
+            "url": "https://web-scraping.dev/product/15",
+            "description": "Experience a surge of vitality with our 'Teal Potion', an exceptional energy drink designed for the gaming community. With its intriguing teal color and a flavor that keeps you asking for more, this potion is your best companion during those long gaming nights. Every sip is an adventure - let the quest begin!",
+            "scores": {
+                "bm25_score": 1.1934454957258107,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.5475,
+                "final_score": 2.1409454957258105
+            },
+            "score": 2.141
+        },
+        {
+            "title": "Teal Energy Potion",
+            "url": "https://web-scraping.dev/product/27",
+            "description": "Experience a surge of vitality with our 'Teal Potion', an exceptional energy drink designed for the gaming community. With its intriguing teal color and a flavor that keeps you asking for more, this potion is your best companion during those long gaming nights. Every sip is an adventure - let the quest begin!",
+            "scores": {
+                "bm25_score": 1.1934454957258107,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.5475,
+                "final_score": 2.1409454957258105
+            },
+            "score": 2.141
+        },
+        {
+            "title": "Teal Energy Potion",
+            "url": "https://web-scraping.dev/product/3?variant=six-pack",
+            "description": "Experience a surge of vitality with our 'Teal Potion', an exceptional energy drink designed for the gaming community. With its intriguing teal color and a flavor that keeps you asking for more, this potion is your best companion during those long gaming nights. Every sip is an adventure - let the quest begin!",
+            "scores": {
+                "bm25_score": 1.1934454957258107,
+                "exact_match_score": 0,
+                "title_match_score": 0.4,
+                "review_score": 0.5475,
+                "final_score": 2.1409454957258105
+            },
+            "score": 2.141
+        },
+        {
+            "title": "Women's High Heel Sandals",
+            "url": "https://web-scraping.dev/product/20?variant=beige-7",
+            "description": "Step out in style with our Women's High Heel Sandals. These sandals feature a strappy design that adds a touch of elegance to any outfit. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. Choose from black, red, nude, or silver to complement your wardrobe.",
+            "scores": {
+                "bm25_score": 0.7493129440574693,
+                "exact_match_score": 0,
+                "title_match_score": 0.0,
+                "review_score": 0.528,
+                "final_score": 1.2773129440574693
+            },
+            "score": 1.277
+        },
+        {
+            "title": "Women's High Heel Sandals",
+            "url": "https://web-scraping.dev/product/8?variant=beige-6",
+            "description": "Step out in style with our Women's High Heel Sandals. These sandals feature a strappy design that adds a touch of elegance to any outfit. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. Choose from black, red, nude, or silver to complement your wardrobe.",
+            "scores": {
+                "bm25_score": 0.7493129440574693,
+                "exact_match_score": 0,
+                "title_match_score": 0.0,
+                "review_score": 0.528,
+                "final_score": 1.2773129440574693
+            },
+            "score": 1.277
+        },
+        {
+            "title": "Women's High Heel Sandals",
+            "url": "https://web-scraping.dev/product/8?variant=beige-8",
+            "description": "Step out in style with our Women's High Heel Sandals. These sandals feature a strappy design that adds a touch of elegance to any outfit. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. Choose from black, red, nude, or silver to complement your wardrobe.",
+            "scores": {
+                "bm25_score": 0.7493129440574693,
+                "exact_match_score": 0,
+                "title_match_score": 0.0,
+                "review_score": 0.528,
+                "final_score": 1.2773129440574693
+            },
+            "score": 1.277
+        },
+        {
+            "title": "Women's High Heel Sandals",
+            "url": "https://web-scraping.dev/product/20?variant=beige-6",
+            "description": "Step out in style with our Women's High Heel Sandals. These sandals feature a strappy design that adds a touch of elegance to any outfit. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. Choose from black, red, nude, or silver to complement your wardrobe.",
+            "scores": {
+                "bm25_score": 0.7493129440574693,
+                "exact_match_score": 0,
+                "title_match_score": 0.0,
+                "review_score": 0.528,
+                "final_score": 1.2773129440574693
+            },
+            "score": 1.277
+        },
+        {
+            "title": "Women's High Heel Sandals",
+            "url": "https://web-scraping.dev/product/8?variant=blue-9",
+            "description": "Step out in style with our Women's High Heel Sandals. These sandals feature a strappy design that adds a touch of elegance to any outfit. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. Choose from black, red, nude, or silver to complement your wardrobe.",
+            "scores": {
+                "bm25_score": 0.7493129440574693,
+                "exact_match_score": 0,
+                "title_match_score": 0.0,
+                "review_score": 0.528,
+                "final_score": 1.2773129440574693
+            },
+            "score": 1.277
+        },
+        {
+            "title": "Women's High Heel Sandals",
+            "url": "https://web-scraping.dev/product/20",
+            "description": "Step out in style with our Women's High Heel Sandals. These sandals feature a strappy design that adds a touch of elegance to any outfit. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. Choose from black, red, nude, or silver to complement your wardrobe.",
+            "scores": {
+                "bm25_score": 0.7493129440574693,
+                "exact_match_score": 0,
+                "title_match_score": 0.0,
+                "review_score": 0.528,
+                "final_score": 1.2773129440574693
+            },
+            "score": 1.277
+        },
+        {
+            "title": "Women's High Heel Sandals",
+            "url": "https://web-scraping.dev/product/20?variant=blue-9",
+            "description": "Step out in style with our Women's High Heel Sandals. These sandals feature a strappy design that adds a touch of elegance to any outfit. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. Choose from black, red, nude, or silver to complement your wardrobe.",
+            "scores": {
+                "bm25_score": 0.7493129440574693,
+                "exact_match_score": 0,
+                "title_match_score": 0.0,
+                "review_score": 0.528,
+                "final_score": 1.2773129440574693
+            },
+            "score": 1.277
+        },
+        {
+            "title": "Women's High Heel Sandals",
+            "url": "https://web-scraping.dev/product/20?variant=beige-8",
+            "description": "Step out in style with our Women's High Heel Sandals. These sandals feature a strappy design that adds a touch of elegance to any outfit. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. Choose from black, red, nude, or silver to complement your wardrobe.",
+            "scores": {
+                "bm25_score": 0.7493129440574693,
+                "exact_match_score": 0,
+                "title_match_score": 0.0,
+                "review_score": 0.528,
+                "final_score": 1.2773129440574693
+            },
+            "score": 1.277
+        },
+        {
+            "title": "Women's High Heel Sandals",
+            "url": "https://web-scraping.dev/product/8",
+            "description": "Step out in style with our Women's High Heel Sandals. These sandals feature a strappy design that adds a touch of elegance to any outfit. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. Choose from black, red, nude, or silver to complement your wardrobe.",
+            "scores": {
+                "bm25_score": 0.7493129440574693,
+                "exact_match_score": 0,
+                "title_match_score": 0.0,
+                "review_score": 0.528,
+                "final_score": 1.2773129440574693
+            },
+            "score": 1.277
+        },
+        {
+            "title": "Women's High Heel Sandals",
+            "url": "https://web-scraping.dev/product/8?variant=beige-7",
+            "description": "Step out in style with our Women's High Heel Sandals. These sandals feature a strappy design that adds a touch of elegance to any outfit. The comfortable footbed and sturdy heel make them perfect for a night out, while the buckle closure ensures a secure fit. Choose from black, red, nude, or silver to complement your wardrobe.",
+            "scores": {
+                "bm25_score": 0.7493129440574693,
+                "exact_match_score": 0,
+                "title_match_score": 0.0,
+                "review_score": 0.528,
+                "final_score": 1.2773129440574693
+            },
+            "score": 1.277
+        },
+        {
+            "title": "Kids' Light-Up Sneakers",
+            "url": "https://web-scraping.dev/product/10?variant=red-5",
+            "description": "Make your child's every step magical with these fun and vibrant light-up sneakers. The shoes feature colorful LED lights embedded in the sole that illuminate with each stride, creating an enchanting visual display. Made with breathable materials and a cushioned footbed, these sneakers ensure comfort for active play. Let your little one's personality shine with these exciting and playful shoes.",
+            "scores": {
+                "bm25_score": 0.0,
+                "exact_match_score": 0,
+                "title_match_score": 0.0,
+                "review_score": 0.528,
+                "final_score": 0.528
+            },
+            "score": 0.528
+        },
+        {
+            "title": "Kids' Light-Up Sneakers",
+            "url": "https://web-scraping.dev/product/10?variant=red-6",
+            "description": "Make your child's every step magical with these fun and vibrant light-up sneakers. The shoes feature colorful LED lights embedded in the sole that illuminate with each stride, creating an enchanting visual display. Made with breathable materials and a cushioned footbed, these sneakers ensure comfort for active play. Let your little one's personality shine with these exciting and playful shoes.",
+            "scores": {
+                "bm25_score": 0.0,
+                "exact_match_score": 0,
+                "title_match_score": 0.0,
+                "review_score": 0.528,
+                "final_score": 0.528
+            },
+            "score": 0.528
+        },
+        {
+            "title": "Kids' Light-Up Sneakers",
+            "url": "https://web-scraping.dev/product/22?variant=red-6",
+            "description": "Make your child's every step magical with these fun and vibrant light-up sneakers. The shoes feature colorful LED lights embedded in the sole that illuminate with each stride, creating an enchanting visual display. Made with breathable materials and a cushioned footbed, these sneakers ensure comfort for active play. Let your little one's personality shine with these exciting and playful shoes.",
+            "scores": {
+                "bm25_score": 0.0,
+                "exact_match_score": 0,
+                "title_match_score": 0.0,
+                "review_score": 0.528,
+                "final_score": 0.528
+            },
+            "score": 0.528
+        },
+        {
+            "title": "Kids' Light-Up Sneakers",
+            "url": "https://web-scraping.dev/product/22?variant=red-5",
+            "description": "Make your child's every step magical with these fun and vibrant light-up sneakers. The shoes feature colorful LED lights embedded in the sole that illuminate with each stride, creating an enchanting visual display. Made with breathable materials and a cushioned footbed, these sneakers ensure comfort for active play. Let your little one's personality shine with these exciting and playful shoes.",
+            "scores": {
+                "bm25_score": 0.0,
+                "exact_match_score": 0,
+                "title_match_score": 0.0,
+                "review_score": 0.528,
+                "final_score": 0.528
+            },
+            "score": 0.528
+        }
+    ]
+}
